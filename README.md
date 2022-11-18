@@ -9,6 +9,7 @@ You can insert multiple test documents into a collection using migration. To run
 ```bash
 npm run migrate
 ```
+Also, you must create an .env file using the information from .env.example
 
 ## To start the api server, use
 
